@@ -3,7 +3,7 @@
 //  SwiftImage
 //
 //  Created by John Zhao on 3/6/16.
-//  Copyright © 2016 JOHN ZHAO
+// Copyright © 2016 Phunware Inc. All rights reserved.
 //
 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
